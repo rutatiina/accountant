@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "rutatiina/accountant",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "The Accountant project by Rutatiina.",
+    "keywords": ["project", "accounting", "qbuks", "books", "sales", "purchases", "invoicing", "billing"],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
