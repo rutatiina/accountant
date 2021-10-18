@@ -1,9 +1,10 @@
 NOTE:
-All resources are already included in the package.
+All resources are already included in the package (Apart from items images resources).
 So no need to publish.
 
 Run the following command to setup;
   composer create-project rutatiina/accountant [folder-name]
   cd [folder-name]
   php artisan storage:link
+  php artisan vendor:publish --tag="rutatiina/item" --force
 
