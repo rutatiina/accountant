@@ -1,0 +1,9 @@
+NOTE:
+All resources are already included in the package.
+So no need to publish.
+
+Run the following command to setup;
+  composer create-project rutatiina/accountant [folder-name]
+  cd [folder-name]
+  php artisan storage:link
+
